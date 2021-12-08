@@ -1,0 +1,4 @@
+aaaa.
+-wqq
+-test
+*qqqqq
